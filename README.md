@@ -1,6 +1,8 @@
 # Javascript Koans Pro
 
-This repository contains some exercises (koans) to practice javascript concepts. The purpose of the exercise is to get all tests passing by filling in the gaps in the code (test files)
+This repository contains some exercises (koans) _to practice Javascript concepts_. The purpose of the exercise is to get all tests passing by filling in the gaps in the code (test files)
+
+This repository is based (forked) on [https://github.com/daveikaye/jquery-koans](https://github.com/liammclennan/JavaScript-Koans)
 
 ## Working
 
