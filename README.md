@@ -1,8 +1,10 @@
 # Javascript Koans Pro
 
+This repository contains some exercises (koans) to practice javascript concepts. The purpose of the exercise is to get all tests passing by filling in the gaps in the code (test files)
+
 ## Working
 
-To start working w/ the katas on the browser you can install the dependencies by doping
+To start working w/ the katas on the browser you can install the dependencies by doing
 
     npm install
 
