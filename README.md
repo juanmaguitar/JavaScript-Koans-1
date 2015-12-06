@@ -1,5 +1,18 @@
-Update
-======
+# Javascript Koans Pro
+
+## Working
+
+To start working w/ the katas on the browser you can install the dependencies by doping
+
+    npm install
+
+And then launch the koans page in the browser by doing
+
+    grunt serve
+
+If you have the [livereload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei) plugin in the browser, every time you change a `.js` file, the page in the browser will be updated automatically
+
+## Notes from the original author
 
 > If you like JavaScript Koans you might enjoy my newer, more user friendly, project [Didacto: JavaScript](http://javascript.didacto.net/)
 
